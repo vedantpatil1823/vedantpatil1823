@@ -1,6 +1,7 @@
-<!-- Profile Banner (replace with your own if you have one) -->
+"""markdown
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi%20👋,%20I'm%20Vedant%20Patil!&fontSize=35&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=140&section=header&text=Hi%20%E2%9C%8C%20I'm%20Vedant%20Patil&fontSize=30" alt="header" />
 </p>
 
 <p align="center">
@@ -9,69 +10,59 @@
   </a>
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-vedantpatil1823-181717?style=flat&logo=github" alt="GitHub Badge" />
-  <img src="https://komarev.com/ghpvc/?username=vedantpatil1823&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Repos-1-blue?style=flat" alt="Repo Count" />
-  <!-- Add more badges as relevant -->
-</p>
-
----
-
-## 🚀 About Me
-
-Hi, I'm Vedant Patil!  
-Welcome to my GitHub profile repository. I love building, learning, and collaborating on open source projects.  
-<!-- Add more about you here! -->
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpatil1823&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedantpatil1823&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Just examples, update with your tech! -->
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
-  <!-- Add more tech badges as you like -->
-</p>
-
----
-
-## 🔗 Connect with Me
-
 <p align="center">
   <a href="https://github.com/vedantpatil1823">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-vedantpatil1823-181717?style=flat&logo=github" alt="GitHub Badge" />
   </a>
-  <!-- Add LinkedIn, Twitter, etc. if you have them -->
+  <img src="https://komarev.com/ghpvc/?username=vedantpatil1823&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-brightgreen?style=flat" alt="Open to opportunities" />
 </p>
 
 ---
 
-<!-- Optionally, add a fun GIF or quote -->
+## About
+
+I am Vedant Patil — a software developer focused on building reliable, maintainable applications and learning modern engineering practices. I enjoy collaborating on open-source projects, solving problems, and improving code quality.
+
+- Location: Pune, India
+- Currently: Learning advanced backend development and cloud-native practices
+
+---
+
+## Areas of Expertise
+
+- Languages: Python, JavaScript, HTML, CSS
+- Web: REST APIs, frontend fundamentals
+- Tools: Git, GitHub, VS Code
+
+(Replace or extend these items with your exact skills and technologies.)
+
+---
+
+## Selected Projects
+
+- Project 1 — Short description of a notable project or link to repository.
+- Project 2 — Short description (add links to repositories or demos).
+
+Add specific project names and links here to showcase your work.
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Coder GIF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=responsive" alt="GitHub Stats"/>
 </p>
 
-<!-- GitHub Metrics -->
-<!-- Uncomment this if you want even more widgets
-<p align="center">
-  <img src="https://github.com/vedantpatil1823/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
--->
+---
+
+## Connect
+
+- GitHub: https://github.com/vedantpatil1823
+- Email: (add your email) 
+- LinkedIn: (add link)
+
+---
+
+<p align="center">Thanks for visiting — feel free to explore my repositories and reach out if you'd like to collaborate.</p>
+"""
