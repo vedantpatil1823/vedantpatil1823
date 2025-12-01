@@ -1,7 +1,7 @@
 # Hi, I'm Vedant Patil 👋
 
 [![Follow on GitHub](https://img.shields.io/github/followers/vedantpatil1823?label=Follow&style=social)](https://github.com/vedantpatil1823)
-[![Website](https://img.shields.io/badge/portfolio-visit-blue)](https://your-portfolio.example.com) <!-- replace with your portfolio -->
+[![Website](https://img.shields.io/badge/portfolio-visit-blue)](https://dev-showcase-823.preview.emergentagent.com/) <!-- replace with your portfolio -->
 [![Email](https://img.shields.io/badge/email-vedant%40example.com-orange)](mailto:svedant0105@gmail.com) <!-- update email -->
 
 ---
