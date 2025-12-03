@@ -30,16 +30,7 @@ A results-driven software engineer with a passion for building elegant, maintain
 
 ## Selected Projects
 
-- [Project One — Awesome App](https://github.com/vedantpatil1823/project-one)  
-  A short one-line description of the project, tech used, and impact (e.g., improved load time by 30%).
 
-- [Project Two — Developer Tool](https://github.com/vedantpatil1823/project-two)  
-  What it does, key technologies, and why it’s useful.
-
-- [Project Three — Open Source Contribution](https://github.com/vedantpatil1823/project-three)  
-  Brief note about contribution, PRs merged, or libraries improved.
-
-(Replace the links and descriptions above with your actual project repositories and highlights.)
 
 ---
 
