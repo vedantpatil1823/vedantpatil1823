@@ -48,7 +48,7 @@ I'm a dedicated software developer with a strong foundation in full-stack develo
 ## 📚 Education
 
 **Bachelor of Technology** in Computer Science  
-*[Your University/Institute Name]* — [Graduation Year]
+*Mumbai University* — 2026
 
 ---
 
