@@ -79,7 +79,10 @@ Explore my complete portfolio showcasing all my projects and work.
 ## 📊 GitHub Stats
 
 ### **1. Overall Statistics**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ff006e&icon_color=ff006e" alt="Vedant's GitHub Stats" width="100%"/>
+</div>
 
 **📈 Insights:**
 - **Total Repositories:** Showcase of diverse projects ranging from frontend applications to backend systems
@@ -91,7 +94,10 @@ Explore my complete portfolio showcasing all my projects and work.
 ---
 
 ### **2. Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatil1823&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatil1823&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ff006e" alt="Top Languages" width="100%"/>
+</div>
 
 **💻 Language Breakdown:**
 - **JavaScript/TypeScript:** Primary frontend development language used for React components, interactive UI, and frontend logic
@@ -107,8 +113,11 @@ Explore my complete portfolio showcasing all my projects and work.
 
 ---
 
-### **4. Repository Stats**
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=vedantpatil1823&repo=vedantpatil1823&theme=radical)
+### **3. Repository Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedantpatil1823&repo=vedantpatil1823&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ff006e" alt="Vedant's GitHub Stats" width="100%"/>
+</div>
 
 **🎯 Profile Repository Highlights:**
 - **Purpose:** Main portfolio repository showcasing professional profile, achievements, and development journey
@@ -135,6 +144,20 @@ Explore my complete portfolio showcasing all my projects and work.
 | **Versatility** | Proficiency across multiple languages and frameworks | Enables tackling diverse technical challenges |
 | **Collaboration** | Active in open-source communities and team-based projects | Fosters innovation and knowledge sharing |
 | **Learning Velocity** | Continuous skill enhancement through new projects and emerging technologies | Keeps pace with industry evolution |
+
+---
+
+### **Contribution Graph & Streak**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpatil1823&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats" width="100%"/>
+</div>
+
+**🔥 Streak Statistics:**
+- Consistent daily coding activity
+- Long-term commitment to development
+- Regular project updates and maintenance
+- Continuous learning through code
 
 ---
 
