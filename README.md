@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with exp
 
 ## 👨‍💻 About Me
 
-I'm a dedicated software developer with a strong foundation in full-stack development. I have hands-on experience building robust backend systems and interactive frontend applications. I'm always eager to explore new technologies and best practices in software development.
+I'm a dedicated software developer with a strong foundation in full-stack development. I have hands-on experience building robust backend systems and interactive frontend applications. I'm always eager to learn and grow in my technical journey.
 
 - 🔭 **Currently working on:** Full-stack web development projects
 - 🌱 **Currently learning:** Advanced system design patterns and cloud technologies
@@ -78,9 +78,17 @@ Explore my complete portfolio showcasing all my projects and work.
 
 ## 📊 GitHub Stats
 
+### **Overall Statistics**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical)
 
+### **Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatil1823&layout=compact&theme=radical)
+
+### **Contribution Graph**
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=vedantpatil1823&theme=radical)
+
+### **Repository Stats**
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=vedantpatil1823&repo=vedantpatil1823&theme=radical)
 
 ---
 
