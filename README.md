@@ -74,20 +74,7 @@ I'm a dedicated software developer with a strong foundation in full-stack develo
 ### **[Project Portfolio](https://portfolio-olive-three-69.vercel.app/)**
 Explore my complete portfolio showcasing all my projects and work.
 
----
 
-## 📊 GitHub Stats
-
-### **1. Overall Statistics**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical)
-
-### **2. Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatil1823&layout=compact&theme=radical)
-
-### **4. Repository Stats**
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=vedantpatil1823&repo=vedantpatil1823&theme=radical)
-
----
 
 ## 🤝 Let's Connect!
 
