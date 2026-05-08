@@ -78,16 +78,13 @@ Explore my complete portfolio showcasing all my projects and work.
 
 ## 📊 GitHub Stats
 
-### **Overall Statistics**
+### **1. Overall Statistics**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpatil1823&show_icons=true&theme=radical)
 
-### **Top Languages**
+### **2. Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpatil1823&layout=compact&theme=radical)
 
-### **Contribution Graph**
-![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=vedantpatil1823&theme=radical)
-
-### **Repository Stats**
+### **4. Repository Stats**
 ![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=vedantpatil1823&repo=vedantpatil1823&theme=radical)
 
 ---
